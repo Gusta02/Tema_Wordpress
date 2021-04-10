@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Tema Teste</title>
+	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
@@ -23,7 +24,6 @@
 				<div class="clear"></div>
 				<br />
 				<br />
-				<br/>
 				<div class="w50 time-descricao">
 					<h2>Melhore a comunicação com seu cliente e time.</h2>
 					<p>Consultoria especializada em startups, empresas, principalmente, pessoas.</p>
@@ -50,9 +50,37 @@
 
 			</div>
 		</div><!--center/slick-->
-
 	</section><!--clientes-slider-->
+    <section class="diferenciais">
 
+    	<div class="center">
+    		<h2>Contribuímos de ponta a ponta</h2>
+
+    		<div class="icons-diferenciais">
+    			
+    			<div class="box-single-diferenciais">
+    				<img src="img/pngs/icon1.png" />
+    				<h3>Ambiente Mobile</h3>
+    				<p>Garanta que toda sua cominicação esteja alinhada com seu propósito, cada palavra conta.</p>
+    			</div>
+
+    			<div class="box-single-diferenciais">
+    				<img src="img/pngs/icon2.png"/>
+    				<h3>Sites e Intranets</h3>
+    				<p>Um diálogo so acontece quando ambas as partes falam e escutam, garanta que seu público te entende.</p>
+    			</div>
+
+    			<div class="box-single-diferenciais">
+    				<img src="img/pngs/icon3.png"/>
+    				<h3>Comunicação One-To-One</h3>
+    				<p>O digital veio pra ficar, sem duvidas, mas uma comunicação integrada de verdade exige clareza nas decisões.</p>
+    				
+    			</div>
+
+    		</div><!--icons-diferenciais-->
+    	</div>
+
+    </section><!--diferenciais-->
 
 	<script src="js/jquery.js"></script>
 	<script src="js/slick.min.js"></script>
