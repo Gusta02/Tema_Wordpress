@@ -23,6 +23,7 @@
 				<div class="clear"></div>
 				<br />
 				<br />
+				<br/>
 				<div class="w50 time-descricao">
 					<h2>Melhore a comunicação com seu cliente e time.</h2>
 					<p>Consultoria especializada em startups, empresas, principalmente, pessoas.</p>
